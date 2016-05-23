@@ -16,8 +16,8 @@
 -->
 <resources>
 
-    <string name="theme_name">Header Template</string>
-    <string name="theme_author">Nicholas Chum &amp; Randall Rushing</string>
-    <string name="theme_email">randall.rushing@gmail.com</string>
+    <string name="theme_name">Aicp Headers</string>
+    <string name="theme_author">Davor Bertovic (LorD ClockaN)</string>
+    <string name="theme_email">lordclockan@gmail.com</string>
 
 </resources>
